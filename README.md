@@ -48,7 +48,7 @@ Daikibo is a production company and a client of Deliotte, having four (4) differ
 - from Artist;
 *  
 - ALTER TABLE Artist
-  - ADD Artist_Label_address int Not Null DEFAULT "11";
+- ADD Artist_Label_address int Not Null DEFAULT "11";
 * 
 - update Artist
 - SET Artist_Label_address =12
