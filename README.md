@@ -46,15 +46,19 @@ Daikibo is a production company and a client of Deliotte, having four (4) differ
 - select sum(Artist_Label_address)
 - from Artist;
 
-- ALTER TABLE Artist 
+
+- ALTER TABLE Artist
 - ADD Artist_Label_address int Not Null DEFAULT "11";
+
 
 - update Artist
 - SET Artist_Label_address =12
 - where Artist_ID =2;
 
+
 - select* from foreigners.Artist
 - where Artist_name like "A%";
+
 
 - select*
 - from Artist
@@ -64,6 +68,6 @@ Daikibo is a production company and a client of Deliotte, having four (4) differ
 # Contact Me
 
 |----------|----------|
-| 📩   |   [your_email@gmail.com](wilsonemena@gmail.com)	     |
+| 📩   |   [wilsonemena@gmail.com](wilsonemena@gmail.com)	     |
 | 📞   |   [2348105370236](https://wa.me/+2348105370236)       |	
 | 🗃️   |   [View Resume](OGUBUIKE_WILSON_DA_CV.pdf)	 	       |
