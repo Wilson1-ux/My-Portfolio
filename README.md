@@ -43,7 +43,6 @@ Daikibo is a production company and a client of Deliotte, having four (4) differ
 
 
 ### Below are few codes from projects I did using SQL
-* 
 - select sum(Artist_Label_address)
 - from Artist;
 *  
