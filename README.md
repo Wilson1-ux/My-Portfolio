@@ -43,27 +43,27 @@ Daikibo is a production company and a client of Deliotte, having four (4) differ
 
 
 ## Below are few codes from projects I did using SQL
-select sum(Artist_Label_address)
-from Artist;
+- select sum(Artist_Label_address)
+- from Artist;
 
-ALTER TABLE Artist 
-ADD Artist_Label_address int Not Null DEFAULT "11";
+- ALTER TABLE Artist 
+- ADD Artist_Label_address int Not Null DEFAULT "11";
 
-update Artist
-SET Artist_Label_address =12
-where Artist_ID =2;
+- update Artist
+- SET Artist_Label_address =12
+- where Artist_ID =2;
 
-select* from foreigners.Artist
-where Artist_name like "A%";
+- select* from foreigners.Artist
+- where Artist_name like "A%";
 
-select*
-from Artist
-inner join City
-on Artist.City_ID=City.City_ID;
+- select*
+- from Artist
+- inner join City
+- on Artist.City_ID=City.City_ID;
 
 # Contact Me
 
 |----------|----------|
-| 📩   |   [your_email@gmail.com](wilsonemena@gmail.com	       |
-| 📞   |   [2348105370236](https://wa.me/+2348105370236)        	 |	
-| 🗃️   |   [View Resume](OGUBUIKE_WILSON_DA_CV.pdf)	 	         |
+| 📩   |   [your_email@gmail.com](wilsonemena@gmail.com)	     |
+| 📞   |   [2348105370236](https://wa.me/+2348105370236)       |	
+| 🗃️   |   [View Resume](OGUBUIKE_WILSON_DA_CV.pdf)	 	       |
