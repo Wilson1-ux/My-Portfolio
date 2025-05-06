@@ -64,6 +64,6 @@ Daikibo is a production company and a client of Deliotte, having four (4) differ
 # Contact Me
 
 |----------|----------|
-| 📩   |   [wilsonemena@gmail.com](wilsonemena@gmail.com)	     |
-| 📞   |   [2348105370236](https://wa.me/+2348105370236)       |	
-| 🗃️   |   [View Resume](OGUBUIKE_WILSON_DA_CV.pdf)	 	       |
+| 📩   |   [wilsonemena@gmail.com](mailto:wilsonemena@gmail.com)	     |
+| 📞   |   [2348105370236](https://wa.me/+2348105370236)               |	
+| 🗃️   |   [View Resume](OGUBUIKE_WILSON_DA_CV.pdf)	 	               |
