@@ -42,28 +42,25 @@ Daikibo is a production company and a client of Deliotte, having four (4) differ
 [Read More](Daikibo_Telemetary_Data_Analysis_Report.pdf)
 
 
-## Below are few codes from projects I did using SQL
+### Below are few codes from projects I did using SQL
+* 
 - select sum(Artist_Label_address)
-  - from Artist;
-
-
+- from Artist;
+*  
 - ALTER TABLE Artist
   - ADD Artist_Label_address int Not Null DEFAULT "11";
-
-
+* 
 - update Artist
-  - SET Artist_Label_address =12
-  - where Artist_ID =2;
-
-
+- SET Artist_Label_address =12
+- where Artist_ID =2;
+* 
 - select* from foreigners.Artist
-  - where Artist_name like "A%";
-
-
+- where Artist_name like "A%";
+* 
 - select*
-  - from Artist
-  - inner join City
-  - on Artist.City_ID=City.City_ID;
+- from Artist
+- inner join City
+- on Artist.City_ID=City.City_ID;
 
 # Contact Me
 
