@@ -39,7 +39,7 @@ Lavida stores is a sales and delivery store that is into sales and shipment of c
 ![Daikibo Factories' Telemetry Data Dashboard](Daikibo_Factories_Telemetry_Dashboard.png)
 
 Daikibo is a production company and a client of Deliotte, having four (4) different factories located in: Meiyo (Tokyo, Japan), Seiko (Osaka, Japan), Berlin (Berlin, Germany) and Shenzhen (Shenzhen, China). Each location has nine (9) types of machines, sending a message every 10 mins and this data has been collected for one month. The reason for collecting this telemetry data and the analysis was to identify which location machines broke down the most, and the machines that broke down most often in that location. I was opportuned to carry out this project analysis as a data analyst intern with Deloitte. The project analysis was carried out using Tableau. [View Certificate](My_Deloitte_Internship_Certificate.png)
-[Read More](Daikibo_Telemetary_Data_Analysis_Report.pdf)
+| [Read More](Daikibo_Telemetary_Data_Analysis_Report.pdf)
 
 
 ### Below are few codes from projects I did using SQL
