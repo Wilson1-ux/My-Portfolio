@@ -64,6 +64,6 @@ on Artist.City_ID=City.City_ID;
 # Contact Me
 
 |----------|----------|
-| 📩   |   [your_email@gmail.com](mailto:wilsonemena@gmail.com	 |
-| 📞   |   [2348105370236](https://wa.me/2348105370236)        	 |	
+| 📩   |   [your_email@gmail.com](wilsonemena@gmail.com	       |
+| 📞   |   [2348105370236](https://wa.me/+2348105370236)        	 |	
 | 🗃️   |   [View Resume](OGUBUIKE_WILSON_DA_CV.pdf)	 	         |
