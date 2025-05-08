@@ -23,14 +23,14 @@ OK Foods is a food producing company that is into the production and sales/distr
 ## Analysis and Modelling of Blinkit's Marketing Performance Data
 ![Blinkit's Marketing Performance Dashboard](Blinkit_Market_Performance_Dashboard.png)
 
-Blinkit is an online marketing company that generates revenue through impressions and clicks on campaigns/posts they make through channels like Email, Apps, SMS and Social Media. The analysis seeks to investigate their marketing performance for the period of March, 2023 to November, 2024, to monitor Key performance indicators, find out best performing channel and target audience by revenue/profit generation, and give actionable insights on areas for improvement. The project analysis was carried out using Excel and Power BI tools.
+Blinkit is an online marketing company that generates revenue through impressions and clicks on campaigns/posts they make through channels like Email, Apps, SMS and Social Media. The analysis seeks to investigate their marketing performance for the period of March, 2023 to November, 2024, to monitor Key performance indicators, find out top performing channels and target audience by revenue/profit generation, and make actionable recommendation on areas for improvement. The project analysis was carried out using Excel and Power BI tools.
 [Read More](Blinkit_Marketing_Perfomance_Analysis_Report.pdf)
 
 
 ## Lavida Stores' Sales Performance Analysis
 ![Lavida stores Sales Dashboard](Lavida_stores_Dashboard.png)
 
-Lavida stores is a sales and delivery store that is into sales and distribution/shipment of cookies to their customers across seven outlet/store locations. The analysis aims to monitor key performance metrics, find out the ratio of revenue and profit generated relative to projection, the percentage of revenue that was used for promo, cost incurred relative to revenue generated, analyse customers with the most quantity purchased, the average number of days it takes to ship products to their customers, and equally make actionable suggestions on areas for improvement. The project analysis was carried out using Excel tools.
+Lavida stores is a sales and delivery store that is into sales and distribution/shipment of cookies to their customers across seven (7) outlets/store locations. The analysis aims to monitor key performance metrics, find out the ratio of revenue and profit generated relative to projection, the percentage of revenue that was used for promo, cost incurred relative to revenue generated, analyse customers with the most quantity purchased, the average number of days it takes to ship products to their customers, and equally make actionable suggestions on areas for improvement. The project analysis was carried out using Excel tools.
 [Read More](Lavida_Store_Sales_Analysis_Report.pdf)
 
 
@@ -38,7 +38,7 @@ Lavida stores is a sales and delivery store that is into sales and distribution/
 
 ![Daikibo Factories' Telemetry Data Dashboard](Daikibo_Factories_Telemetry_Dashboard.png)
 
-Daikibo is a production company and a client of Deliotte, having four (4) different factories located in: Meiyo (Tokyo, Japan), Seiko (Osaka, Japan), Berlin (Berlin, Germany) and Shenzhen (Shenzhen, China). Each location has nine (9) types of machines, sending a message every 10 mins and this data has been collected for one month. The reason for collecting this telemetry data and the analysis was to identify which location machines broke down the most, and the machines that broke down most often in that location. I was opportuned to carry out this project analysis as a data analyst intern with Deloitte. The project analysis was carried out using Tableau. [View Certificate](My_Deloitte_Internship_Certificate.png)
+Daikibo is a production company and a client of Deliotte, having four (4) different factories located in: Meiyo (Tokyo, Japan), Seiko (Osaka, Japan), Berlin (Berlin, Germany) and Shenzhen (Shenzhen, China). Each location has nine (9) types of machines, sending a message every 10 mins and this data has been collected for one month. The reason for collecting this telemetry data and the analysis was to identify which factory/location machines broke down the most, and the machines that broke down most often in that location. I was opportuned to carry out this project analysis as a data analyst intern with Deloitte. The project analysis was carried out using Tableau. [View Certificate](My_Deloitte_Internship_Certificate.png)
 | [Read More](Daikibo_Telemetary_Data_Analysis_Report.pdf)
 
 
