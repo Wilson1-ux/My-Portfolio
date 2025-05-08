@@ -1,6 +1,6 @@
 # ABOUT ME
 
-Hello! I am Ogubuike Wilson Chukwuemena😎, a detail driven data analyst, dedicated to transforming raw data into meaningful insights. I specialise in helping organizations and businesses make informed decisions by transforming complex data into actionable insight. With Excel, Power BI, Tableau and SQL, I leverage advanced data analysis and visualization techniques to uncover trends, Identify areas for improvement and drive business growth.
+Hello! I am Ogubuike Wilson Chukwuemena😎, a data analyst with hands-on experience in Excel, Power BI, SQL, and Tableau. I specialize in transforming raw data into actionable insights, creating clear and interactive dashboards, and performance tracking to support data-informed decision-making. With a strong analytical mindset and attention to detail, I leverage advanced data analysis and visualization techniques to help organizations uncover trends, Identify areas for improvement, optimize performance, and drive business growth. I enjoy uncovering patterns and trends that help businesses optimize their operations and strategies.
 
 # SKILLS
 
@@ -17,20 +17,20 @@ Below are some of the projects I have worked on.
 
 ![OK Foods Sales performance dashboard](OK_Foods_Dashboard.png)
 
-OK Foods is a sales store that sells snacks (biscuits and confectionery products). The purpose of this analysis was to monitor key performance indicators, get more insights on the company's sales performance, performance of their sales representatives, find out products that customers purchase more and generates more profit, and equally suggest areas for improvement. The project analysis was carried out using Excel and Power BI tools.
+OK Foods is a food producing company that is into the production and sales/distributed of confectionery products like biscuit variety. Their products are distributed to various locations through eight (8) different sales representatives. The purpose of this analysis was to monitor key performance indicators, get more insights on the company's sales performance, sales representatives' performance, find out products that customers purchase more and generates more profit, and equally suggest areas for improvement. The project analysis was carried out using Excel and Power BI tools.
 [Read More](OK_Foods_Analysis_Report.pdf)
 
 ## Analysis and Modelling of Blinkit's Marketing Performance Data
 ![Blinkit's Marketing Performance Dashboard](Blinkit_Market_Performance_Dashboard.png)
 
-Blinkit is an online marketing company that generates revenue through impressions and clicks on campaigns/posts they make through channels like Email, Apps, SMS and Social Media. The analysis seeks to investigate their marketing performance for the period of March, 2023 to November, 2024, monitor Key performance indicators, find out best performing channel by revenue/profit, and give actionable insights on areas for improvement. The project analysis was carried out using Excel and Power BI tools.
+Blinkit is an online marketing company that generates revenue through impressions and clicks on campaigns/posts they make through channels like Email, Apps, SMS and Social Media. The analysis seeks to investigate their marketing performance for the period of March, 2023 to November, 2024, to monitor Key performance indicators, find out best performing channel and target audience by revenue/profit generation, and give actionable insights on areas for improvement. The project analysis was carried out using Excel and Power BI tools.
 [Read More](Blinkit_Marketing_Perfomance_Analysis_Report.pdf)
 
 
 ## Lavida Stores' Sales Performance Analysis
 ![Lavida stores Sales Dashboard](Lavida_stores_Dashboard.png)
 
-Lavida stores is a sales and delivery store that is into sales and shipment of cookies to their customers. The analysis aims to find out the ratio of revenue and profit generated relative to projection, the percentage of revenue that was used for promo, customers with the most quantity purchased and the average number of days it takes to ship products to their customers, and make actionable suggestions for improvement. The project analysis was carried out using Excel tool.
+Lavida stores is a sales and delivery store that is into sales and distribution/shipment of cookies to their customers across seven outlet/store locations. The analysis aims to monitor key performance metrics, find out the ratio of revenue and profit generated relative to projection, the percentage of revenue that was used for promo, cost incurred relative to revenue generated, analyse customers with the most quantity purchased, the average number of days it takes to ship products to their customers, and equally make actionable suggestions on areas for improvement. The project analysis was carried out using Excel tools.
 [Read More](Lavida_Store_Sales_Analysis_Report.pdf)
 
 
